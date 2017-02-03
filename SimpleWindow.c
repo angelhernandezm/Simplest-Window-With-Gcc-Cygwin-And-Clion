@@ -1,3 +1,5 @@
+#include <windows.h>
+
 HINSTANCE  hInst;
 const char g_szClassName[] = "bonafideideasWindowClass";
 
